@@ -1,0 +1,10 @@
+sdata/
+__pycache__
+*.cfg
+*.log
+*.log.*
+setting.py
+test
+cookbook-sample
+screen.png
+test.*
